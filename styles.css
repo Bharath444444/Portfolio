@@ -108,7 +108,7 @@ html {
 }
 
 .cv-btn:hover {
-    background: linear-gradient(135deg, #007BFF, #FF007F);
+    background: linear-gradient(134deg, #007BFF, #FF007F);
     color: white;
     box-shadow: 0px 0px 20px rgba(0, 123, 255, 0.7);
     transform: scale(1.05);
