@@ -15,3 +15,8 @@ A responsive personal portfolio website showcasing my projects, skills, and achi
 
 ### Responsive Design
 <img width="1086" height="898" alt="Screenshot 2025-08-13 101436" src="https://github.com/user-attachments/assets/733cb411-9850-4a0c-8c49-2cb23db80af4" />
+
+## 🛠 Tech Stack  
+- HTML5  
+- CSS3  
+- JavaScript
