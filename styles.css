@@ -679,7 +679,7 @@ html {
     .hero {
         flex-direction: column-reverse;
         text-align: center;
-        padding: 80px ;
+        padding: 80px 5%;
         gap: 30px;
     }
 
@@ -691,6 +691,7 @@ html {
     .hero-image img {
         width: 220px;  
         height: 220px;
+        padding-top: 80px;
     }
 
     .social-icons {
