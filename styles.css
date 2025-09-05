@@ -679,7 +679,7 @@ html {
     .hero {
         flex-direction: column-reverse;
         text-align: center;
-       padding: 140px 5% 80px; 
+       padding: 180px 5% 80px; 
         gap: 30px;
     }
 
